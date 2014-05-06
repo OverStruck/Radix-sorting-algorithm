@@ -9,3 +9,5 @@ It automatically generates a psudo-random array and sorts it.
 There are many different kinds of implementations, this is just one of them.
 
 This project was created as practice for a data structures class. I don't claim this to be the best, fastest, or cleanest implementation out there. Feel free to study it/do what ever you want.
+
+**Everything is in the main.cpp file**
